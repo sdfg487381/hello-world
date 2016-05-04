@@ -6,4 +6,6 @@ As I get better with programming, I'd love to help make this earth a better plac
 I'm fairly new to programming and there is no better or exciting time in history to be part of this revolution. 
 If anybody has any pointers or suggestions, I welcome them!
 
+Thanks
+
 David
